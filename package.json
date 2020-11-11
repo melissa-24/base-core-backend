@@ -1,0 +1,21 @@
+{
+    "name": "@melissa24/base-node-backend",
+    "version": "1.0.0",
+    "description": "Basic set up for a Node based backend",
+    "licence": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melissa-24/base-core-backend.git"
+    },
+    "main": "index.js",
+    "keywords": [
+        "backend",
+        "node",
+        "npm",
+        "package",
+        "melissa24"
+    ],
+    "author": "Melissa Longenberger <melissalongenberger24@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/melissa-24/base-core-backend#readme"
+}
