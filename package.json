@@ -1,6 +1,6 @@
 {
     "name": "@melissa24/base-node-backend",
-    "version": "1.0.1-0",
+    "version": "0.0.1-0",
     "description": "Basic set up for a Node based backend",
     "licence": "MIT",
     "repository": {
